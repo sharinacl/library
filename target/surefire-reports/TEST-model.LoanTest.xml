@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="model.LoanTest" time="0.021" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="model.LoanTest" time="0.056" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="21"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -11,7 +11,7 @@
     <property name="java.vm.specification.version" value="21"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-21-openjdk-amd64/lib"/>
-    <property name="sun.java.command" value="/mnt/c/Users/Admin/ShaYrgo/IntelliJIDE/gradle/library/target/surefire/surefirebooter13611967113320921294.jar /mnt/c/Users/Admin/ShaYrgo/IntelliJIDE/gradle/library/target/surefire 2024-11-29T17-52-50_276-jvmRun1 surefire9919543908246421505tmp surefire_01201962872586621995tmp"/>
+    <property name="sun.java.command" value="/mnt/c/Users/Admin/ShaYrgo/IntelliJIDE/gradle/library/target/surefire/surefirebooter3516722835367999589.jar /mnt/c/Users/Admin/ShaYrgo/IntelliJIDE/gradle/library/target/surefire 2024-11-29T18-32-57_166-jvmRun1 surefire961793472462167562tmp surefire_014179849804412325837tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/mnt/c/Users/Admin/ShaYrgo/IntelliJIDE/gradle/library/target/test-classes:/mnt/c/Users/Admin/ShaYrgo/IntelliJIDE/gradle/library/target/classes:/home/shacha2001/.m2/repository/org/junit/jupiter/junit-jupiter/5.8.1/junit-jupiter-5.8.1.jar:/home/shacha2001/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.1/junit-jupiter-api-5.8.1.jar:/home/shacha2001/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/home/shacha2001/.m2/repository/org/junit/platform/junit-platform-commons/1.8.1/junit-platform-commons-1.8.1.jar:/home/shacha2001/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/home/shacha2001/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.8.1/junit-jupiter-params-5.8.1.jar:/home/shacha2001/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.1/junit-jupiter-engine-5.8.1.jar:/home/shacha2001/.m2/repository/org/junit/platform/junit-platform-engine/1.8.1/junit-platform-engine-1.8.1.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -26,7 +26,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="/mnt/c/Users/Admin/ShaYrgo/IntelliJIDE/gradle/library/target/surefire/surefirebooter13611967113320921294.jar"/>
+    <property name="surefire.real.class.path" value="/mnt/c/Users/Admin/ShaYrgo/IntelliJIDE/gradle/library/target/surefire/surefirebooter3516722835367999589.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21.0.4+7-Ubuntu-1ubuntu222.04"/>
     <property name="user.name" value="shacha2001"/>
@@ -52,5 +52,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="65.0"/>
   </properties>
-  <testcase name="testDueDate" classname="model.LoanTest" time="0.021"/>
+  <testcase name="testDueDate" classname="model.LoanTest" time="0.056"/>
 </testsuite>

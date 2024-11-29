@@ -83,7 +83,7 @@ public class BookCatalogTest {
 		// Use assertThrows to check that BookNotFoundException is thrown
 		assertThrows(BookNotFoundException.class, () -> {
 			bc.findBook("Learning Java");  // This should throw an exception
-		});
+		}, "Expected BookNotFoundException when trying to find a book that doesn't exist in the catalog");
 	}
 
 }
