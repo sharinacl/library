@@ -1,13 +1,18 @@
-    mvn compile
-        - mvn compile will translate the source code (.java) to a bytecode (.class) so that the program can be executed.
+
     mvn clean
         - mvn clean removes previous build artifacts and ensure a fresh start.
-	ta bort klass filerna
+
+    mvn compile
+        - mvn compile will translate the source code (.java) to a bytecode (.class) so that the program can be executed.
+
+    testning
+    	- mvn test runs automated unit tests and validate code functionality.
+
 	javadoc
 	    - mvn javadoc:javadoc will generate documentation from the source code comments.
+
 	rapport för testerna
 	    - mvn surefire-report:report creates a detailed test execution report.
-	testning
-	    - mvn test runs automated unit tests and validate code functionality.
+
 	paketering
 	    - mvn package it creates distributable artifact(jar) and includes compiled classes and resources.
