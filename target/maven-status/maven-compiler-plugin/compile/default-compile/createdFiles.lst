@@ -1,0 +1,11 @@
+model/LoanAlreadyExistsException.class
+ui/Main.class
+model/BookCatalog.class
+utilities/LoanStatus.class
+utilities/GenderType.class
+model/LoanNotFoundException.class
+model/Book.class
+model/Customer.class
+model/Material.class
+model/BookNotFoundException.class
+model/Loan.class
